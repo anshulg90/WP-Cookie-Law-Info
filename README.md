@@ -23,9 +23,9 @@ If you are having any kind of issue with configuring our plugin or you face any 
 https://wordpress.org/plugins/wp-cookie-law-info/
 
 ### Installation:
-  1. Upload the wp-cookie-law-info folder to the /wp-content/plugins/ directory
-  2. Activate the plugin through the 'Plugins' menu in WordPress
-  3. Go to Settings > WP Cookie Law Info and make it configure.
+    1. Upload the wp-cookie-law-info folder to the /wp-content/plugins/ directory
+    2. Activate the plugin through the 'Plugins' menu in WordPress
+    3. Go to Settings > WP Cookie Law Info and make it configure.
 
 ### Changelog: 
 * 1.0 - Initial Release
